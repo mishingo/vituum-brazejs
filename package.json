@@ -9,16 +9,17 @@
     "eslint": "eslint '**/*.js' --fix"
   },
   "dependencies": {
-    "vituum": "^1.1",
+    "brazejs": "^1.7.1",
     "liquidjs": "^10.9",
-    "lodash": "^4.17"
+    "lodash": "^4.17",
+    "vituum": "^1.1"
   },
   "devDependencies": {
     "@types/node": "^20.9.1",
-    "vite": "^5.0.0",
     "eslint": "^8.53.0",
     "eslint-config-standard": "^17.1.0",
-    "typescript": "^5.2.2"
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0"
   },
   "files": [
     "index.js",
