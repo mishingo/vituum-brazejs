@@ -9,8 +9,7 @@
     "eslint": "eslint '**/*.js' --fix"
   },
   "dependencies": {
-    "brazejs": "^1.7.1",
-    "liquidjs": "^10.9",
+    "liquidjs": "github:mishingo/liquidjs",
     "lodash": "^4.17",
     "vituum": "^1.1"
   },
